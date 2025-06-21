@@ -18,19 +18,7 @@ Ce projet présente une implémentation **manuelle** de l'Analyse en Composantes
 - `requirements.txt` : Liste des dépendances.
 - `.gitignore` : Fichiers à ignorer dans le repo.
 
-## 📷 Exemples de visualisations
 
-| Implémentation manuelle                | Scikit-learn                           |
-|-------------------------               |--------------                          |
-| ![PCA Manuelle](images/pca_manuel.png) | ![PCA sklearn](images/pca_sklearn.png) |
-
-
-## 🔧 Dépendances
-
-Installez les bibliothèques nécessaires avec :
-
-```bash
-pip install -r requirements.txt
 ## 👤 Auteur
 Zoubir Chatti
 
