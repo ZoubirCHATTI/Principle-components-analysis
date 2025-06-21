@@ -18,6 +18,14 @@ Ce projet présente une implémentation **manuelle** de l'Analyse en Composantes
 - `requirements.txt` : Liste des dépendances.
 - `.gitignore` : Fichiers à ignorer dans le repo.
 
+## 📌Principle Components Analysis
+
+Ce dépôt contient un notebook pour l’analyse en composantes principales sur le dataset Iris.
+
+Cliquez sur le bouton ci-dessous pour lancer le notebook dans Binder (environnement en ligne, sans installation) :
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZoubirCHATTI/Principle-components-analysis/main?filepath=notebooks/principle_component_analysis_iris.ipynb)
+
 
 ## 👤 Auteur
 Zoubir Chatti
