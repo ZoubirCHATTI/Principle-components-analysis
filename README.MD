@@ -24,7 +24,7 @@ Ce dépôt contient un notebook pour l’analyse en composantes principales sur 
 
 Cliquez sur le bouton ci-dessous pour lancer le notebook dans Binder (environnement en ligne, sans installation) :
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zoubirchatti/pr-onents-analysis/HEAD?labpath=notebook%2Fprinciple_component_analysis_iris.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZoubirCHATTI/Principle-components-analysis/main?urlpath=%2Fdoc%2Ftree%2Fnotebook%2Fprinciple_component_analysis_iris.ipynb)
 
 
 
