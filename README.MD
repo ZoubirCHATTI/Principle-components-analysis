@@ -14,8 +14,11 @@ Ce projet présente une implémentation **manuelle** de l'Analyse en Composantes
 ## 📁 Contenu du projet
 
 data
+
 ├── iris.txt
+
 notebook
+
 ├──principle_component_analysis_iris.ipynb
 
 ## 📌Principle Components Analysis
