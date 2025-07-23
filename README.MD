@@ -13,10 +13,10 @@ Ce projet présente une implémentation **manuelle** de l'Analyse en Composantes
 
 ## 📁 Contenu du projet
 
-- `PCA_manuel.ipynb` : Notebook principal contenant l'implémentation manuelle + comparaison sklearn.
-- `iris.txt` : Jeu de données Iris au format texte.
-- `requirements.txt` : Liste des dépendances.
-- `.gitignore` : Fichiers à ignorer dans le repo.
+data
+├── iris.txt
+notebook
+├──principle_component_analysis_iris.ipynb
 
 ## 📌Principle Components Analysis
 
@@ -24,7 +24,8 @@ Ce dépôt contient un notebook pour l’analyse en composantes principales sur 
 
 Cliquez sur le bouton ci-dessous pour lancer le notebook dans Binder (environnement en ligne, sans installation) :
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZoubirCHATTI/Principle-components-analysis/main?filepath=notebooks/principle_component_analysis_iris.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zoubirchatti/pr-onents-analysis/HEAD?labpath=notebook%2Fprinciple_component_analysis_iris.ipynb)
+
 
 
 ## 👤 Auteur
